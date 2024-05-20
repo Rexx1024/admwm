@@ -1,3 +1,4 @@
 datasets
 langchain-community
 langchain-chroma
+sentence-transformers
